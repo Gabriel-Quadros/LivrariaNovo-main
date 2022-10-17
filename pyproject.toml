@@ -7,6 +7,8 @@ authors = ["Gabriel Quadros <gquadros312@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Django = "^4.1.2"
+django-environ = "^0.9.0"
+django-rest-framework = "^0.1.0"
 
 [tool.poetry.dev-dependencies]
 
