@@ -2,7 +2,7 @@
 name = "livrarianovo-main"
 version = "0.1.0"
 description = ""
-authors = ["Gabriel de Quadros <gquadros312@gmail.com>"]
+authors = ["Gabriel Quadros <gquadros312@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
