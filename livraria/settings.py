@@ -130,6 +130,9 @@ AUTH_USER_MODEL = "core.Usuario"
 
 # Configuração de media (upload de arquivos e imagens)
 MEDIA_URL = "http://localhost:8000/media/"
+
 MEDIA_ENDPOINT = "/media/"
+
 MEDIA_ROOT = os.path.join(BASE_DIR, "media_files/")
+
 FILE_UPLOAD_PERMISSIONS = 0o640
